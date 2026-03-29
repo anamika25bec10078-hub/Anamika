@@ -31,7 +31,8 @@ Copies issued
 
 Copies available
 
-6. Exit
+6.Exit
+
 Close the program safely.
 
 # Technologies/tools Used
