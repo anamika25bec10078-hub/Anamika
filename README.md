@@ -68,9 +68,7 @@ To check whether the system works correctly, the following tests can be performe
 
 Test 1: Adding a Book
 
-Enter:
-
-Book ID
+Enter: Book ID
 
 Title
 
