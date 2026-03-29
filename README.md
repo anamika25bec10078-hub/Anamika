@@ -44,7 +44,7 @@ Basic Python data structures (List and Dictionary) No external libraries or data
 
 Closes the program safely.
 
-# Stept o install & run the project
+# Steps to install & run the project
 Installation
 
 1. Install Python 3 from the official website.
